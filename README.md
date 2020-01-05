@@ -13,6 +13,7 @@
     P(1,0)				P(1,1)
 
 - Markov chain model related to this code is illustrated as follows.
+<img src = "two_state_markov.png">
 
 
 
