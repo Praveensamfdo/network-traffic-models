@@ -15,7 +15,5 @@
 - Markov chain model related to this code is illustrated as follows.
 <img src = "two_state_markov.png">
 
-
-
-
-
+#### References
+- [Primary radio user activity models for cognitive radio networks: A survey](https://www.sciencedirect.com/science/article/pii/S1084804514000848 "Primary radio user activity models for cognitive radio networks: A survey")
